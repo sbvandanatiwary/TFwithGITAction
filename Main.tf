@@ -7,9 +7,9 @@ terraform {
     }
   }
   cloud {
-    organization = "CloudQuickLabs"
+    organization = "SabreADI"
     workspaces {
-      name = "AzureLabs"
+      name = "SabreAditestwsGA"
     }
   }
 }
