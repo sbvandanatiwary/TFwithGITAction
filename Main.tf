@@ -9,7 +9,7 @@ terraform {
   cloud {
     organization = "SabreADI"
     workspaces {
-      name = "SabreAditestws"
+      name = "SabreAditestwsGA"
     }
   }
 }
